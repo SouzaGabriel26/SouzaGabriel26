@@ -2,7 +2,6 @@
 
 - 🔭 I am currently studying computer science!
 - 🌱 I’m currently learning web development!
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/gabriel-alves-73860a1ab/) | [Instagram](https://www.instagram.com/gabrielsouzalv/)
 
 <div align="center">
   <a href="https://github.com/SouzaGabriel26">
