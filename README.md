@@ -1,5 +1,5 @@
 
-<img align="right" height="590em" src="https://user-images.githubusercontent.com/66218607/139923463-697200d8-2ff6-4772-bc90-f2e8de6c98d2.png"/>
+<img align="right" height="590em" src="https://user-images.githubusercontent.com/66218607/139925251-9da6723c-7957-435a-8ef1-8cd0446c0fd2.png"/>
 
 ## 👋 Olá! Eu sou o SouzaGabriel26, bem vindos ao meu perfil.
 
