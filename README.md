@@ -1,3 +1,6 @@
+
+<img align="right" height="590em" src="https://user-images.githubusercontent.com/66218607/139923463-697200d8-2ff6-4772-bc90-f2e8de6c98d2.png"/>
+
 ## 👋 Olá! Eu sou o SouzaGabriel26, bem vindos ao meu perfil.
 
 - 🔭 I am currently studying computer science!
