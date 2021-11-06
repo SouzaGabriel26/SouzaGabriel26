@@ -1,7 +1,7 @@
 
 <img align="right" height="400em" src="https://user-images.githubusercontent.com/66218607/139925251-9da6723c-7957-435a-8ef1-8cd0446c0fd2.png"/>
 
-## 👋 Olá! Eu sou o SouzaGabriel26, bem vindos ao meu perfil.
+## 👋 Olá! Eu sou o Gabriel Alves, bem vindos ao meu perfil.
 
 - 🔭 I am currently studying computer science!
 - 🌱 I’m currently learning web development!
