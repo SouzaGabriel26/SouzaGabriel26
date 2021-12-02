@@ -4,7 +4,7 @@
 ## 👋 Olá! Eu sou o Gabriel Alves, bem vindos ao meu perfil.
 
 - 🔭 I am currently studying computer science!
-- 🌱 I’m currently learning web development!
+- 🌱 I’m learning web development!
 
 <div align="center">
   <a href="https://github.com/SouzaGabriel26">
