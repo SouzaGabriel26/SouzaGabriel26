@@ -1,11 +1,6 @@
 
 <img align="right" height="400em" src="https://user-images.githubusercontent.com/66218607/139925251-9da6723c-7957-435a-8ef1-8cd0446c0fd2.png"/>
 
-## 👋 Olá! Eu sou o Gabriel Alves, bem vindos ao meu perfil.
-
-- 🔭 I am currently studying computer science!
-- 🌱 I’m learning web development!
-
 <div align="center">
   <a href="https://github.com/SouzaGabriel26">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SouzaGabriel26&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
